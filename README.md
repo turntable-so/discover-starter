@@ -1,8 +1,6 @@
 # Turntable Discover Starter
 
-## Set up
-
-### Installation 
+## Installation 
 ```
 Install a python env manager (we like uv)
 # On macOS and Linux.
