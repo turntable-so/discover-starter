@@ -1,4 +1,5 @@
 # Turntable Discover Starter
+This repo contains a FastAPI (python) and React (create-react-app) skeleton.
 
 ## Installation 
 ```
